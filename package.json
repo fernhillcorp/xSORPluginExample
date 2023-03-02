@@ -1,0 +1,29 @@
+{
+  "name": "xsorpluginexample",
+  "version": "1.0.0",
+  "description": "A xSOR plugin example.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernhillcorp/xSORPluginExample.git"
+  },
+  "keywords": [
+    "xsor",
+    "crypto",
+    "trading",
+    "example"
+  ],
+  "author": "Fernhill, Corp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernhillcorp/xSORPluginExample/issues"
+  },
+  "homepage": "https://github.com/fernhillcorp/xSORPluginExample#readme",
+  "dependencies": {
+    "@fernhillcorp/exchange-connector": "^1.0.3",
+    "@fernhillcorp/xsor": "^1.0.2"
+  }
+}
